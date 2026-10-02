@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Eleventy output & cache folders (adjust '_site' if you use 'public' or 'dist')
+_site/
+.cache/
+.eleventy-image/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Code Editor settings
+.vscode/
+.idea/
